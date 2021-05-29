@@ -7,6 +7,7 @@ A Simple wordpress Bus Ticket Booking Plugin. Day-Wise Booking.
 Requirements
 
 PHP 7.2 or greater is recommended
+
 MySQL 5.6 or greater is recommended
 
 ### From this repository
@@ -24,4 +25,6 @@ Clone the Github repository:
 ## How to Use
 
 From your WordPress administration panel go to `Plugins > Installed Plugins` and scroll down until you find `Bus Book`. You will need to activate it first.
+
+##Shortcode 
 Place `[bus_book_form]` in your templates
