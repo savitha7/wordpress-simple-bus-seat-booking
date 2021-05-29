@@ -26,5 +26,5 @@ Clone the Github repository:
 
 From your WordPress administration panel go to `Plugins > Installed Plugins` and scroll down until you find `Bus Book`. You will need to activate it first.
 
-##Shortcode 
+## Shortcode
 Place `[bus_book_form]` in your templates
